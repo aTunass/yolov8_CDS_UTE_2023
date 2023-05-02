@@ -1,0 +1,6 @@
+checkpoint_epoch300.pth
+best_v8_new.pt
+best_v8.pt
+yolov8s.pt
+__pycache__
+/weights/*
